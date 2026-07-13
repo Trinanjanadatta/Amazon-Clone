@@ -1,0 +1,32 @@
+# Amazon Homepage Clone
+
+A beginner-friendly front-end project that recreates the appearance of the Amazon homepage using **HTML** and **CSS**. The primary goal of this project was to practice web page layout and styling by replicating the look of a real-world website.
+
+## Preview
+
+<img width="1891" height="1040" alt="Screenshot 2026-07-13 221213" src="https://github.com/user-attachments/assets/702c1cd1-51e9-4454-bbdb-f8ac747c3e01" />
+<img width="1899" height="1043" alt="Screenshot 2026-07-13 221202" src="https://github.com/user-attachments/assets/fad8dce0-b77d-42f1-a64c-5fabb6546bf7" />
+
+
+## Features
+
+* Amazon-inspired navigation bar
+* Search bar layout
+* Hero banner section
+* Product category cards
+* Footer section
+
+> **Note:** This project focuses on replicating the visual appearance of the Amazon homepage. Interactive functionality has not been implemented, and some links are included as placeholders.
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## What I Learned
+
+* Structuring web pages with semantic HTML
+* Styling layouts using CSS
+* Building responsive sections with Flexbox
+* Organizing a front-end project
+* Recreating the UI of a real-world website
