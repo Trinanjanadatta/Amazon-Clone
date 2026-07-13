@@ -4,8 +4,8 @@ A beginner-friendly front-end project that recreates the appearance of the Amazo
 
 ## Preview
 
-<img width="1891" height="1040" alt="Screenshot 2026-07-13 221213" src="https://github.com/user-attachments/assets/702c1cd1-51e9-4454-bbdb-f8ac747c3e01" />
 <img width="1899" height="1043" alt="Screenshot 2026-07-13 221202" src="https://github.com/user-attachments/assets/fad8dce0-b77d-42f1-a64c-5fabb6546bf7" />
+<img width="1891" height="1040" alt="Screenshot 2026-07-13 221213" src="https://github.com/user-attachments/assets/702c1cd1-51e9-4454-bbdb-f8ac747c3e01" />
 
 
 ## Features
